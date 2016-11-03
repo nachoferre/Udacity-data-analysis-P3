@@ -1,0 +1,4 @@
+*.json
+!Madrid_V1.json
+*.zip
+Madrid.osm
